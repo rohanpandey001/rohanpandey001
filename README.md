@@ -44,7 +44,7 @@
 
 ## 🙋 About Me
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/arpitadubey/arpitadubey/main/girl_coding.jpg"/>
+<img align="right" alt="Coding Girl" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ```python
 class ArpitaDubey:
