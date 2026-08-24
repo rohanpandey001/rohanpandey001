@@ -7,7 +7,7 @@
 
 <!-- Typing Animation -->
 <a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=36D1DC&center=true&vCenter=true&random=false&width=700&height=60&lines=🤖+AI%2FML+Engineer+%26+NLP+Specialist;📱+Full-Stack+%26+Android+Developer;🧠+Building+Models+That+Understand+Emotion;🌱+Turning+Data+Into+Real-World+Impact;☁️+AWS+Certified+Cloud+Practitioner;💡+250%2B+DSA+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36D1DC&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%26+NLP+Specialist;Full-Stack+%26+Android+Developer;Building+NLP+models+that+understand+emotion;Turning+data+into+real-world+impact;AWS+Certified+Cloud+Practitioner;250%2B+DSA+Problems+Solved" alt="Typing SVG" />
 </a>
 
 <br/>
