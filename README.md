@@ -2,17 +2,16 @@
 
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Arpita%20Dubey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20%26%20Android%20Developer&descAlignY=58&descSize=18&stroke=5B86E5&strokeWidth=2" width="100%"/>
+# Arpita Dubey
+### AI/ML Engineer | Full-Stack & Android Developer
 
-<!-- Typing Animation -->
 <a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36D1DC&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%26+NLP+Specialist;Full-Stack+%26+Android+Developer;Building+NLP+models+that+understand+emotion;Turning+data+into+real-world+impact;AWS+Certified+Cloud+Practitioner;250%2B+DSA+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=36D1DC&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+and+NLP+Specialist;Full-Stack+and+Android+Developer;Building+NLP+models+that+understand+emotion;Turning+data+into+real-world+impact;AWS+Certified+Cloud+Practitioner;250%2B+DSA+Problems+Solved" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social / Contact Badges -->
+<!-- Contact and Profile Links -->
 <a href="mailto:arpita020829@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -31,18 +30,18 @@
 
 ---
 
-<!-- Quick Navigation -->
+<!-- Navigation -->
 <div align="center">
 
-### 📌 Quick Navigation
+### Navigation
 
-[🙋 About](#about) &nbsp;•&nbsp; [🛠 Skills](#skills) &nbsp;•&nbsp; [🎓 Education](#education) &nbsp;•&nbsp; [💼 Experience](#experience) &nbsp;•&nbsp; [📂 Projects](#projects) &nbsp;•&nbsp; [📊 Stats](#stats) &nbsp;•&nbsp; [📜 Certifications](#certifications) &nbsp;•&nbsp; [🏆 Achievements](#achievements) &nbsp;•&nbsp; [📫 Connect](#connect)
+[About](#about) &nbsp;|&nbsp; [Skills](#skills) &nbsp;|&nbsp; [Education](#education) &nbsp;|&nbsp; [Experience](#experience) &nbsp;|&nbsp; [Projects](#projects) &nbsp;|&nbsp; [Stats](#stats) &nbsp;|&nbsp; [Certifications](#certifications) &nbsp;|&nbsp; [Achievements](#achievements) &nbsp;|&nbsp; [Connect](#connect)
 
 </div>
 
 ---
 
-<h2 id="about">🙋 About Me</h2>
+<h2 id="about">About Me</h2>
 
 <img align="right" alt="Coding Girl" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
@@ -50,51 +49,51 @@
 class ArpitaDubey:
     def __init__(self):
         self.name        = "Arpita Dubey"
-        self.role        = ["AI/ML Engineer", "Android Developer", "Full-Stack Dev"]
-        self.university  = "KIET — B.Tech CSE (CGPA: 8.96)"
-        self.internship  = "AI/ML Intern @ Sopra Steria Group"
-        self.location    = "India 🇮🇳"
-        self.languages   = ["Python 🐍", "Java ☕", "SQL 🗄️", "HTML/CSS 🌐"]
-        self.hobbies     = ["Building ML models", "Competitive DSA", "Community Building"]
+        self.role        = ["AI/ML Engineer", "Android Developer", "Full-Stack Developer"]
+        self.university  = "KIET Group of Institutions (B.Tech CSE - CGPA: 8.96)"
+        self.internship  = "AI/ML Intern at Sopra Steria Group"
+        self.location    = "India"
+        self.languages   = ["Python", "Java", "SQL", "HTML/CSS"]
+        self.focus_areas = ["NLP & Transformers", "Mobile ML Deployment", "Competitive Programming"]
 
     def current_focus(self):
         return [
             "Fine-tuning transformer models (DistilBERT / BERT)",
-            "Building ML-powered Android apps",
-            "Competitive DSA — 250+ problems solved",
+            "Building ML-powered Android applications",
+            "Competitive Data Structures and Algorithms",
         ]
 
-    def life_motto(self):
-        return "Turn data into real-world impact. 🚀"
+    def motto(self):
+        return "Transforming data and intelligent algorithms into practical solutions."
 
 me = ArpitaDubey()
-print(me.life_motto())
+print(me.motto())
 ```
 
-- 🎓 **B.Tech, Computer Science** — KIET (CGPA: **8.96**)
-- 💼 **AI/ML Intern** — Sopra Steria Group *(NLP & DistilBERT — 95% accuracy)*
-- 🧩 **250+ DSA** problems solved across LeetCode, CodeForces & HackerRank
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🌐 **App Development Coordinator** — GDG KIET | Organizer of *SprintHacks 3.0*
-- 💬 Ask me about **NLP/ML, Android Dev, Flask, Backend Systems**
-- 📫 Reach me at **arpita020829@gmail.com**
+- **Education:** Pursuing B.Tech in Computer Science at Krishna Institute of Engineering and Technology (CGPA: **8.96**)
+- **Experience:** AI/ML Intern at Sopra Steria Group (Built DistilBERT mental health classification system with **95% accuracy**)
+- **Problem Solving:** Solved **250+ DSA problems** across LeetCode, CodeForces, and HackerRank
+- **Certification:** **AWS Certified Cloud Practitioner**
+- **Leadership:** App Development Coordinator at GDG KIET (Co-organized SprintHacks 3.0)
+- **Specializations:** Natural Language Processing, Android Development (Jetpack Compose), Backend Development (Flask, REST APIs)
+- **Contact:** arpita020829@gmail.com
 
-<div align="right"><a href="#top">🔝 Back to top</a></div>
+<div align="right"><a href="#top">Back to top</a></div>
 
 ---
 
-<h2 id="skills">🛠 Tech Stack & Skills</h2>
+<h2 id="skills">Technical Skills</h2>
 
 <div align="center">
 
-### 💬 Languages
+### Languages
 <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql&theme=dark&perline=5" alt="Languages"/>
 
-### 🧰 Frameworks & Tools
+### Frameworks and Tools
 <img src="https://skillicons.dev/icons?i=flask,tensorflow,androidstudio,vscode,git,github,firebase,sqlite&theme=dark&perline=8" alt="Frameworks"/>
 
-### ☁️ Cloud & Databases
-<img src="https://skillicons.dev/icons?i=aws,firebase,mysql,sqlite&theme=dark&perline=6" alt="Cloud & DBs"/>
+### Cloud and Databases
+<img src="https://skillicons.dev/icons?i=aws,firebase,mysql,sqlite&theme=dark&perline=6" alt="Cloud and Databases"/>
 
 </div>
 
@@ -102,40 +101,40 @@ print(me.life_motto())
 
 <table align="center">
   <tr>
-    <td align="center" width="200"><b>🧠 AI / ML</b></td>
+    <td align="center" width="200"><b>AI / Machine Learning</b></td>
     <td>NLP, DistilBERT, BERT, TensorFlow Lite, Scikit-Learn, MFCC Audio Feature Extraction, Neural Networks, Image Processing, Logistic Regression, SVM</td>
   </tr>
   <tr>
-    <td align="center"><b>📱 Mobile Dev</b></td>
+    <td align="center"><b>Mobile Development</b></td>
     <td>Android Studio, Jetpack Compose, Java (Android), Firebase, SQLite</td>
   </tr>
   <tr>
-    <td align="center"><b>🌐 Web / Backend</b></td>
+    <td align="center"><b>Web and Backend</b></td>
     <td>Flask, JSP, HTML5, CSS3, REST APIs, SQLite, MySQL</td>
   </tr>
   <tr>
-    <td align="center"><b>🗄️ Databases</b></td>
-    <td>MySQL, SQLite, Firebase Realtime DB & Firestore</td>
+    <td align="center"><b>Databases</b></td>
+    <td>MySQL, SQLite, Firebase Realtime Database & Firestore</td>
   </tr>
   <tr>
-    <td align="center"><b>☁️ Cloud</b></td>
+    <td align="center"><b>Cloud</b></td>
     <td>AWS (EC2, S3, IAM, Lambda) — Certified Cloud Practitioner</td>
   </tr>
   <tr>
-    <td align="center"><b>🤝 Soft Skills</b></td>
-    <td>Effective Communication, Problem Solving, Teamwork, Time Management, Technical Leadership</td>
+    <td align="center"><b>Professional Skills</b></td>
+    <td>Technical Leadership, Problem Solving, Effective Communication, Agile Collaboration, Time Management</td>
   </tr>
 </table>
 
-<div align="right"><a href="#top">🔝 Back to top</a></div>
+<div align="right"><a href="#top">Back to top</a></div>
 
 ---
 
-<h2 id="education">🎓 Education</h2>
+<h2 id="education">Education</h2>
 
 <div align="center">
 
-| 🏫 Institution | 📚 Qualification | 🏅 Score | 📅 Year |
+| Institution | Qualification | Score | Duration |
 |:---|:---|:---:|:---:|
 | Krishna Institute of Engineering & Technology (KIET) | B.Tech — Computer Science | **CGPA: 8.96** | 2024 – 2028 |
 | Holy Cross School, Ballia | Intermediate (Class XII) | **89.00%** | 2022 – 2023 |
@@ -143,35 +142,35 @@ print(me.life_motto())
 
 </div>
 
-<div align="right"><a href="#top">🔝 Back to top</a></div>
+<div align="right"><a href="#top">Back to top</a></div>
 
 ---
 
-<h2 id="experience">💼 Experience</h2>
+<h2 id="experience">Professional Experience</h2>
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  🏢  AI/ML Intern — Sopra Steria Group              2026    ║
-╚══════════════════════════════════════════════════════════════╝
+================================================================
+  AI/ML Intern — Sopra Steria Group                       2026
+================================================================
 ```
 
 </div>
 
-- 🔬 Developed an **NLP-based mental health classification system** using **DistilBERT**, achieving **95% accuracy** (outperforming SVM at 88% and Logistic Regression at 89%).
-- ⚙️ Integrated the model with **Flask** and **SQLite** for real-time prediction, confidence scoring, and emotion tracking via a live dashboard.
-- 📊 Built an end-to-end ML pipeline: data preprocessing → fine-tuning → deployment → REST API exposure.
-- 📝 Delivered technical documentation and participated in code reviews and agile sprint planning.
+- Developed an **NLP-based mental health classification system** using **DistilBERT**, achieving **95% accuracy** (outperforming SVM baseline at 88% and Logistic Regression at 89%).
+- Integrated the model with **Flask** and **SQLite** for real-time prediction, confidence scoring, and emotion tracking via a live dashboard.
+- Built an end-to-end ML pipeline: data preprocessing, fine-tuning, evaluation, and REST API deployment.
+- Authored technical documentation and participated in sprint reviews and design discussions.
 
-<div align="right"><a href="#top">🔝 Back to top</a></div>
+<div align="right"><a href="#top">Back to top</a></div>
 
 ---
 
-<h2 id="projects">📂 Projects</h2>
+<h2 id="projects">Projects</h2>
 
 <details open>
-<summary><b>🧠 Mental Health Condition Detection Using NLP & DistilBERT</b> &nbsp;<sub><code>July 2026</code></sub></summary>
+<summary><b>Mental Health Condition Detection Using NLP & DistilBERT</b> &nbsp;<sub><code>July 2026</code></sub></summary>
 
 <br/>
 
@@ -181,64 +180,64 @@ print(me.life_motto())
 
 | Metric | Score |
 |:---|:---:|
-| **DistilBERT Accuracy** | **95%** ✅ |
+| **DistilBERT Accuracy** | **95%** |
 | SVM Baseline | 88% |
 | Logistic Regression Baseline | 89% |
 
 **Key Highlights:**
-- 🔤 Fine-tuned **DistilBERT** on a labeled mental health text dataset
-- 🚀 Deployed using **Flask** REST API with real-time inference
-- 📊 Real-time **emotion tracking dashboard** with confidence scoring
-- 🗄️ Persistent storage using **SQLite** for user session history
-- 🔒 Privacy-first design: no raw data stored post-prediction
+- Fine-tuned **DistilBERT** on a labeled mental health text dataset
+- Deployed using **Flask** REST API with real-time inference
+- Real-time **emotion tracking dashboard** with confidence scoring
+- Persistent storage using **SQLite** for user session history
+- Privacy-first architecture: no raw user text stored post-prediction
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>🚨 SwaRaksha — AI-Based Scream Detection & Safety App</b> &nbsp;<sub><code>Mar 2026 – Apr 2026</code></sub></summary>
+<summary><b>SwaRaksha — AI-Based Scream Detection & Safety Application</b> &nbsp;<sub><code>Mar 2026 – Apr 2026</code></sub></summary>
 
 <br/>
 
 > **Tech Stack:** `Android (Java)` `TensorFlow Lite` `MFCC` `Firebase` `Neural Networks`
 
-**Overview:** An Android-based women's safety application that uses ML to detect distress screams in real time and instantly triggers emergency alerts to saved contacts.
+**Overview:** An Android safety application that uses machine learning to detect distress screams in real time and automatically triggers emergency alerts to saved contacts.
 
 **Key Highlights:**
-- 🎙️ **MFCC (Mel-Frequency Cepstral Coefficients)** for audio signal feature extraction
-- 🤖 **Neural network** model trained for binary scream vs. non-scream classification
-- 📡 Real-time background audio monitoring with minimal battery drain
-- 🔔 Instant **SMS + Firebase push alerts** to emergency contacts upon detection
-- 📱 Lightweight TensorFlow Lite model optimized for on-device inference
+- Implemented **MFCC (Mel-Frequency Cepstral Coefficients)** for audio feature extraction
+- Trained a **neural network** model for binary scream versus non-scream audio classification
+- Low-latency background audio processing optimized for minimal battery consumption
+- Automated **SMS and Firebase push notifications** sent to emergency contacts upon detection
+- Lightweight TensorFlow Lite model embedded for on-device inference
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>🌾 Krishak — Crop Disease Detection App</b> &nbsp;<sub><code>Nov 2025 | Team of 6</code></sub></summary>
+<summary><b>Krishak — Crop Disease Detection Application</b> &nbsp;<sub><code>Nov 2025 | Team of 6</code></sub></summary>
 
 <br/>
 
 > **Tech Stack:** `Android (Jetpack Compose)` `TensorFlow Lite` `Python` `Image Processing`
 
-**Overview:** A farmer-friendly Android app that uses computer vision and TensorFlow Lite to detect crop diseases from leaf images in real time, providing actionable health reports.
+**Overview:** An accessible Android application that leverages computer vision and TensorFlow Lite to identify crop diseases from leaf images in real time.
 
 **Key Highlights:**
-- 🌿 On-device **image processing** for crop disease identification
-- ⚡ Lightweight **TensorFlow Lite** model for real-time on-device predictions
-- 🎨 Accessible UI built with **Jetpack Compose** for non-technical, rural users
-- 📋 Generates crop health reports with remedies and recommendations
-- 👥 Developed collaboratively as **App & ML Developer** in a team of 6
+- On-device **image processing** for rapid crop health diagnostics
+- Embedded **TensorFlow Lite** model for offline, real-time predictions
+- Intuitive user interface built with **Jetpack Compose** tailored for non-technical users
+- Automated crop health reports with suggested remedies and preventive measures
+- Built collaboratively as **App and ML Developer** in a multidisciplinary team of 6
 
 </details>
 
-<div align="right"><a href="#top">🔝 Back to top</a></div>
+<div align="right"><a href="#top">Back to top</a></div>
 
 ---
 
-<h2 id="stats">📊 GitHub Stats</h2>
+<h2 id="stats">GitHub Statistics</h2>
 
 <div align="center">
 
@@ -256,17 +255,17 @@ print(me.life_motto())
 
 ---
 
-### 🏅 GitHub Trophies
+### GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=arpitadubey&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7" alt="GitHub Trophies" width="100%"/>
 </div>
 
-<div align="right"><a href="#top">🔝 Back to top</a></div>
+<div align="right"><a href="#top">Back to top</a></div>
 
 ---
 
-## 🧩 Competitive Programming
+<h2 id="competitive-programming">Competitive Programming</h2>
 
 <div align="center">
 
@@ -284,87 +283,72 @@ print(me.life_motto())
 
 | Platform | Problems Solved | Focus Areas |
 |:---|:---:|:---|
-| 💛 LeetCode | 150+ | Arrays, Trees, DP, Graphs |
-| 🔵 CodeForces | 60+ | Greedy, Math, Implementation |
-| 🟢 HackerRank | 40+ | SQL, Algorithms, Java |
-| **Total** | **250+** | **Full-spectrum DSA** |
+| LeetCode | 150+ | Arrays, Dynamic Programming, Trees, Graphs |
+| CodeForces | 60+ | Implementation, Math, Greedy Algorithms |
+| HackerRank | 40+ | SQL, Problem Solving, Algorithms |
+| **Total** | **250+** | **Full-Spectrum Data Structures & Algorithms** |
 
 </div>
 
-<div align="right"><a href="#top">🔝 Back to top</a></div>
+<div align="right"><a href="#top">Back to top</a></div>
 
 ---
 
-<h2 id="certifications">📜 Certifications</h2>
+<h2 id="certifications">Certifications</h2>
 
 <div align="center">
 
-| 🏅 Certification | 🏢 Issuer | 📅 Year |
+| Certification | Issuing Organization | Year |
 |:---|:---|:---:|
-| ☁️ **AWS Certified Cloud Practitioner** | Amazon Web Services | 2025 |
+| **AWS Certified Cloud Practitioner** | Amazon Web Services (AWS) | 2025 |
 
 </div>
 
-> 💡 *Actively working towards **AWS Solutions Architect Associate** and **TensorFlow Developer Certificate**.*
+> *Preparation in progress for **AWS Solutions Architect Associate** and **TensorFlow Developer Certificate**.*
 
-<div align="right"><a href="#top">🔝 Back to top</a></div>
+<div align="right"><a href="#top">Back to top</a></div>
 
 ---
 
-<h2 id="achievements">🏆 Achievements</h2>
+<h2 id="achievements">Key Achievements</h2>
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  ☁️  AWS Certified Cloud Practitioner                           │
-│  🧩  250+ DSA Problems — LeetCode · CodeForces · HackerRank    │
-│  🌐  App Dev Coordinator — GDG KIET (Google Developer Group)   │
-│  🎯  Co-organized SprintHacks 3.0 Hackathon                     │
-│  🤖  95% Accuracy NLP Model — Sopra Steria Internship          │
-│  🌾  Led ML dev for Krishak App — Team of 6                    │
-└─────────────────────────────────────────────────────────────────┘
++-----------------------------------------------------------------+
+|  AWS Certified Cloud Practitioner                               |
+|  250+ DSA Problems Solved Across LeetCode, CodeForces, & HR     |
+|  App Development Coordinator — Google Developer Groups (GDG)    |
+|  Core Organizer — SprintHacks 3.0 Hackathon                     |
+|  95% Accuracy DistilBERT Classification Model at Sopra Steria   |
+|  App & ML Lead for Krishak Crop Diagnostic Application          |
++-----------------------------------------------------------------+
 ```
 
 </div>
 
-<div align="right"><a href="#top">🔝 Back to top</a></div>
+<div align="right"><a href="#top">Back to top</a></div>
 
 ---
 
-## 💡 Random Dev Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote" width="80%"/>
-</div>
-
----
-
-<h2 id="connect">📫 Let's Connect</h2>
+<h2 id="connect">Connect With Me</h2>
 
 <div align="center">
 
 <br/>
 
 <a href="mailto:arpita020829@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%20arpita020829%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-arpita020829%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/arpitadubey" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/arpitadubey" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20%40arpitadubey-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
-
-> 💌 *If you found my profile interesting, feel free to reach out — always happy to connect, collaborate, and build something impactful together!* ⭐
-
-<br/>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=140&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=20&fontColor=36D1DC&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
