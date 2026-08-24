@@ -3,7 +3,7 @@
 <div align="center">
 
 # Arpita Dubey
-### AI/ML Engineer | Full-Stack & Android Developer
+### AI/ML Engineer | Android Developer
 
 <a href="https://readme-typing-svg.demolab.com/">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=36D1DC&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+and+NLP+Specialist;Full-Stack+and+Android+Developer;Building+NLP+models+that+understand+emotion;Turning+data+into+real-world+impact;AWS+Certified+Cloud+Practitioner;250%2B+DSA+Problems+Solved" alt="Typing SVG" />
