@@ -36,13 +36,13 @@
 
 ### 📌 Quick Navigation
 
-[🙋 About](#-about-me) &nbsp;•&nbsp; [🛠 Skills](#-tech-stack--skills) &nbsp;•&nbsp; [🎓 Education](#-education) &nbsp;•&nbsp; [💼 Experience](#-experience) &nbsp;•&nbsp; [📂 Projects](#-projects) &nbsp;•&nbsp; [📊 Stats](#-github-stats) &nbsp;•&nbsp; [📜 Certifications](#-certifications) &nbsp;•&nbsp; [🏆 Achievements](#-achievements) &nbsp;•&nbsp; [📫 Connect](#-lets-connect)
+[🙋 About](#about) &nbsp;•&nbsp; [🛠 Skills](#skills) &nbsp;•&nbsp; [🎓 Education](#education) &nbsp;•&nbsp; [💼 Experience](#experience) &nbsp;•&nbsp; [📂 Projects](#projects) &nbsp;•&nbsp; [📊 Stats](#stats) &nbsp;•&nbsp; [📜 Certifications](#certifications) &nbsp;•&nbsp; [🏆 Achievements](#achievements) &nbsp;•&nbsp; [📫 Connect](#connect)
 
 </div>
 
 ---
 
-## 🙋 About Me
+<h2 id="about">🙋 About Me</h2>
 
 <img align="right" alt="Coding Girl" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
@@ -83,7 +83,7 @@ print(me.life_motto())
 
 ---
 
-## 🛠 Tech Stack & Skills
+<h2 id="skills">🛠 Tech Stack & Skills</h2>
 
 <div align="center">
 
@@ -131,7 +131,7 @@ print(me.life_motto())
 
 ---
 
-## 🎓 Education
+<h2 id="education">🎓 Education</h2>
 
 <div align="center">
 
@@ -147,7 +147,7 @@ print(me.life_motto())
 
 ---
 
-## 💼 Experience
+<h2 id="experience">💼 Experience</h2>
 
 <div align="center">
 
@@ -168,10 +168,10 @@ print(me.life_motto())
 
 ---
 
-## 📂 Projects
+<h2 id="projects">📂 Projects</h2>
 
 <details open>
-<summary><h3>🧠 Mental Health Condition Detection Using NLP & DistilBERT &nbsp;<sub><code>July 2026</code></sub></h3></summary>
+<summary><b>🧠 Mental Health Condition Detection Using NLP & DistilBERT</b> &nbsp;<sub><code>July 2026</code></sub></summary>
 
 <br/>
 
@@ -194,10 +194,10 @@ print(me.life_motto())
 
 </details>
 
----
+<br/>
 
 <details>
-<summary><h3>🚨 SwaRaksha — AI-Based Scream Detection & Safety App &nbsp;<sub><code>Mar 2026 – Apr 2026</code></sub></h3></summary>
+<summary><b>🚨 SwaRaksha — AI-Based Scream Detection & Safety App</b> &nbsp;<sub><code>Mar 2026 – Apr 2026</code></sub></summary>
 
 <br/>
 
@@ -214,10 +214,10 @@ print(me.life_motto())
 
 </details>
 
----
+<br/>
 
 <details>
-<summary><h3>🌾 Krishak — Crop Disease Detection App &nbsp;<sub><code>Nov 2025 | Team of 6</code></sub></h3></summary>
+<summary><b>🌾 Krishak — Crop Disease Detection App</b> &nbsp;<sub><code>Nov 2025 | Team of 6</code></sub></summary>
 
 <br/>
 
@@ -238,7 +238,7 @@ print(me.life_motto())
 
 ---
 
-## 📊 GitHub Stats
+<h2 id="stats">📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -295,7 +295,7 @@ print(me.life_motto())
 
 ---
 
-## 📜 Certifications
+<h2 id="certifications">📜 Certifications</h2>
 
 <div align="center">
 
@@ -311,7 +311,7 @@ print(me.life_motto())
 
 ---
 
-## 🏆 Achievements
+<h2 id="achievements">🏆 Achievements</h2>
 
 <div align="center">
 
@@ -340,21 +340,7 @@ print(me.life_motto())
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arpitadubey/arpitadubey/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arpitadubey/arpitadubey/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/arpitadubey/arpitadubey/output/github-snake.svg" />
-</picture>
-</div>
-
-> ⚙️ *To enable the snake animation: go to your GitHub repo Actions and enable the "Generate Snake" workflow.*
-
----
-
-## 📫 Let's Connect
+<h2 id="connect">📫 Let's Connect</h2>
 
 <div align="center">
 
